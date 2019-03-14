@@ -1,4 +1,5 @@
-# Population Growth of Women in STEM
+# Modeling in Applied Mathematics
+## Project: Population Growth of Women in STEM
 
 
 #### Project Synopsis 
