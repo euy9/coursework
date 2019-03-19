@@ -1,4 +1,5 @@
 # Modeling in Applied Mathematics
+MATH1360 (Modeling in Applied Mathematics) in Fall 2017 at the University of Pittsburgh
 ## Project: Population Growth of Women in STEM
 
 
