@@ -1,4 +1,4 @@
-# Project 3: Neo4j / Cypher
+# Project 4: Neo4j / Cypher
 
 ### Goal
 
